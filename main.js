@@ -1,0 +1,1 @@
+var model= "https://teachablemachine.withgoogle.com/models/6zjdpU2lJ/"
